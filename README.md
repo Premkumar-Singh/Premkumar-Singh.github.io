@@ -1,3 +1,4 @@
+Visite to My website (MyWay) : https://premkumar-singh.github.io/
 To host a simple static website (HTML, CSS, JS) for free using GitHub Pages.
 
 1. Created GitHub Repository
